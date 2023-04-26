@@ -23,7 +23,7 @@ The purpose of the tests is to measure the time it takes to save a large number 
 1. Clone the repository to your local machine.
 2. Open a terminal and navigate to the project directory.
 3. Run the following command to build the project: `./mvnw clean package`
-4Run the `CustomerRepositoryTest` class to execute the performance tests.
+4. Run the `CustomerRepositoryTest` class to execute the performance tests.
 
 ## Results
 
